@@ -1,0 +1,1001 @@
+Role,Location,Company Size,Experience,Average Salary,Timestamp
+Business Analyst,Seattle,Small,14,137804.88538100693,2018-07-08
+Software Engineer,Austin,Large,10,174950.2985640803,2018-12-11
+HR Specialist,Boston,Large,20,135871.21865976485,2022-03-31
+Data Scientist,Seattle,Medium,11,170428.3019282185,2020-08-28
+Data Scientist,Austin,Large,9,168825.56031914224,2020-05-19
+Product Manager,Seattle,Large,19,189629.32883505226,2020-09-22
+Data Scientist,Austin,Small,18,156316.7714886999,2019-06-14
+UX Designer,San Francisco,Medium,17,184617.71271359207,2020-11-16
+Software Engineer,Boston,Medium,19,182361.92634515002,2019-01-11
+QA Engineer,Los Angeles,Large,2,102245.02243650169,2022-06-10
+Data Scientist,Seattle,Medium,7,159692.58529026856,2021-06-15
+Software Engineer,Seattle,Medium,17,192122.41632855206,2021-01-02
+UX Designer,New York,Medium,3,133259.6657999541,2021-10-03
+DevOps Engineer,Denver,Small,7,119703.68281189972,2018-03-20
+HR Specialist,Boston,Medium,14,113153.61229040212,2020-11-29
+UX Designer,Seattle,Small,8,129587.22226218914,2019-10-09
+Business Analyst,Boston,Small,6,91367.23227793483,2021-03-25
+HR Specialist,Denver,Large,18,106012.178611137,2021-05-19
+HR Specialist,Austin,Large,0,103784.40259210963,2020-03-20
+Data Scientist,Seattle,Large,8,185480.02063664806,2020-11-13
+Software Engineer,San Francisco,Large,4,178009.258223942,2018-09-14
+Data Scientist,Austin,Small,14,165626.40028570822,2018-12-08
+Product Manager,San Francisco,Small,13,188513.9625362667,2020-02-28
+Software Engineer,New York,Small,18,159096.09194932622,2018-08-17
+HR Specialist,Denver,Small,19,117302.80843008585,2021-09-04
+Business Analyst,Denver,Small,14,115246.89541730026,2019-09-25
+QA Engineer,Seattle,Small,6,100779.06397106814,2021-06-03
+Software Engineer,Boston,Medium,20,172082.4295641546,2021-03-27
+UX Designer,Seattle,Medium,10,129059.57069253497,2018-11-27
+Business Analyst,Chicago,Small,0,86177.21854708012,2019-03-03
+Product Manager,Chicago,Small,19,123436.60026766991,2021-01-22
+HR Specialist,Austin,Small,4,75345.2721463193,2019-08-02
+Product Manager,New York,Large,8,160847.61686621787,2021-10-17
+UX Designer,Seattle,Medium,6,126215.27193258386,2019-02-22
+Product Manager,San Francisco,Small,16,161518.21949199034,2020-08-30
+QA Engineer,Los Angeles,Small,0,92549.0233504473,2019-02-05
+DevOps Engineer,New York,Small,11,177487.84763925464,2022-04-30
+UX Designer,Denver,Large,16,118540.8878139676,2020-11-26
+DevOps Engineer,Los Angeles,Small,19,156658.97344713163,2018-10-20
+HR Specialist,Los Angeles,Small,8,94041.36726162343,2019-11-11
+Product Manager,Chicago,Small,2,120260.04953678462,2021-11-25
+Software Engineer,Austin,Large,18,189751.8941563538,2019-10-18
+HR Specialist,Denver,Small,0,76280.12840989427,2020-08-13
+Data Scientist,Austin,Small,17,134495.01134932402,2022-08-04
+Business Analyst,Chicago,Medium,2,97483.83704767068,2021-04-18
+Data Scientist,Seattle,Small,1,126967.38520467417,2020-07-19
+HR Specialist,Chicago,Small,4,80178.54607079628,2019-07-25
+Product Manager,Austin,Large,19,177135.22973740223,2022-08-03
+DevOps Engineer,Los Angeles,Small,19,159375.88269498874,2019-07-31
+HR Specialist,Chicago,Small,2,87098.01432576639,2022-08-02
+QA Engineer,New York,Medium,17,121955.43106527624,2020-05-20
+Data Scientist,Seattle,Small,3,129344.22334987353,2020-10-23
+DevOps Engineer,Boston,Large,2,159514.6015999449,2021-09-29
+Product Manager,Austin,Medium,13,164497.9298265395,2018-05-14
+DevOps Engineer,Chicago,Small,18,150564.90799330018,2022-05-21
+QA Engineer,Chicago,Small,14,117135.83249036023,2020-05-17
+Data Scientist,Boston,Small,15,150751.07501938887,2019-08-07
+DevOps Engineer,Boston,Medium,20,189974.72415243185,2021-08-02
+Product Manager,Seattle,Small,4,121230.67611118342,2022-07-05
+Business Analyst,Austin,Small,19,137192.4081794774,2022-06-25
+QA Engineer,Boston,Large,0,104589.53380788522,2018-01-11
+Software Engineer,Denver,Medium,2,109270.34682364378,2021-02-15
+HR Specialist,New York,Large,1,103647.59481120191,2020-11-08
+HR Specialist,San Francisco,Small,10,102049.38241064403,2022-05-01
+HR Specialist,Denver,Small,9,90110.35267208659,2020-06-25
+HR Specialist,Boston,Medium,6,108177.8595091221,2022-11-27
+QA Engineer,Seattle,Small,7,120348.01763493204,2020-05-05
+Product Manager,Denver,Large,1,124323.91251305799,2020-09-20
+HR Specialist,Denver,Large,18,142826.58566673507,2019-11-10
+DevOps Engineer,New York,Medium,16,171077.34807408252,2018-04-22
+Software Engineer,Chicago,Large,10,153102.80019095461,2020-01-21
+UX Designer,Seattle,Small,6,104134.55222070696,2019-08-31
+DevOps Engineer,Boston,Medium,14,161624.9063419266,2021-03-17
+QA Engineer,New York,Medium,18,157223.13761664066,2021-03-16
+HR Specialist,Denver,Large,4,112852.91077026367,2018-06-12
+Software Engineer,New York,Small,14,151625.84332285242,2020-10-22
+HR Specialist,Chicago,Medium,15,111910.61748742263,2021-01-28
+Business Analyst,Boston,Medium,2,136068.06606010563,2019-12-29
+Software Engineer,Los Angeles,Large,4,140354.13706821806,2019-08-07
+QA Engineer,Denver,Small,13,93907.29063478076,2020-05-19
+UX Designer,Boston,Medium,15,136532.47092635697,2019-07-04
+DevOps Engineer,Boston,Large,9,182628.46254441404,2018-02-15
+QA Engineer,Seattle,Medium,19,163452.73289066117,2021-10-17
+HR Specialist,San Francisco,Small,12,101705.3784882056,2021-08-04
+HR Specialist,Los Angeles,Large,1,99434.0208499002,2018-11-25
+UX Designer,Los Angeles,Medium,2,104826.86403138241,2021-12-18
+Data Scientist,San Francisco,Small,18,195406.89348001915,2018-08-15
+Data Scientist,Los Angeles,Medium,10,169762.42317119264,2018-09-05
+QA Engineer,Boston,Large,13,138586.67233947638,2020-11-17
+QA Engineer,New York,Medium,1,116825.9826128572,2022-09-09
+Data Scientist,Denver,Medium,20,173294.35511653803,2019-03-04
+UX Designer,San Francisco,Small,3,115980.0826227198,2019-02-14
+QA Engineer,San Francisco,Large,16,163731.54784230512,2020-03-29
+Business Analyst,Los Angeles,Large,4,127973.99467150791,2018-01-24
+Data Scientist,Denver,Small,2,125374.7880715433,2019-04-07
+QA Engineer,Austin,Large,16,143958.03841632765,2018-07-11
+UX Designer,Boston,Small,18,131011.59537711454,2021-01-14
+Business Analyst,Los Angeles,Large,14,141005.05317091625,2022-08-11
+QA Engineer,Boston,Large,11,150946.22921778573,2018-11-16
+QA Engineer,Denver,Small,6,78753.39530786479,2022-09-15
+QA Engineer,New York,Medium,6,129245.18316374556,2021-03-15
+Business Analyst,Seattle,Small,9,137820.9324966822,2020-05-23
+UX Designer,San Francisco,Small,5,124714.66571108725,2022-07-16
+Data Scientist,New York,Large,1,163230.5682462887,2018-10-14
+QA Engineer,Boston,Medium,18,151366.92463180298,2019-04-07
+UX Designer,San Francisco,Large,6,154526.8525162194,2022-05-30
+QA Engineer,Seattle,Medium,18,149989.07565598004,2022-10-03
+Software Engineer,New York,Large,6,184153.56216949556,2019-11-09
+Product Manager,Boston,Small,17,138801.07398879845,2021-09-13
+HR Specialist,Boston,Large,8,116910.04514464189,2020-03-13
+Product Manager,Boston,Medium,16,159964.12947756372,2019-11-18
+DevOps Engineer,New York,Small,12,151983.92267591253,2020-10-09
+QA Engineer,Los Angeles,Medium,20,143336.27387727564,2019-02-06
+Business Analyst,San Francisco,Small,13,140592.5057793857,2019-10-23
+Business Analyst,San Francisco,Small,2,114486.6806437049,2021-03-05
+QA Engineer,Los Angeles,Medium,3,114703.09126481104,2022-10-04
+HR Specialist,New York,Medium,4,111417.5597577716,2020-06-17
+QA Engineer,Seattle,Small,15,145121.70839215885,2020-06-21
+QA Engineer,Chicago,Large,5,101142.6679297936,2020-09-30
+DevOps Engineer,New York,Large,12,214389.58765854355,2020-03-09
+Business Analyst,Los Angeles,Small,0,97456.15251288361,2018-01-25
+QA Engineer,New York,Large,16,163212.22044732812,2018-12-09
+Data Scientist,New York,Small,2,142586.8309227614,2021-01-23
+Business Analyst,Boston,Medium,2,108776.24308030694,2019-01-02
+Business Analyst,Boston,Small,4,99748.2481983205,2019-12-20
+DevOps Engineer,San Francisco,Medium,0,163059.7038530819,2022-11-12
+QA Engineer,Boston,Medium,0,114104.46814110466,2019-04-01
+Business Analyst,Los Angeles,Large,1,132662.70996918186,2021-10-21
+DevOps Engineer,Austin,Large,17,188160.72902907315,2021-12-09
+DevOps Engineer,Chicago,Large,16,186861.45186428455,2021-04-18
+Business Analyst,Denver,Large,14,139697.42175841215,2022-10-19
+Product Manager,Denver,Medium,1,119228.15073682685,2020-10-18
+Software Engineer,New York,Medium,14,184860.63560246152,2019-05-11
+Data Scientist,Chicago,Small,14,143781.22178958147,2020-03-18
+DevOps Engineer,Denver,Medium,18,166086.28484627345,2022-08-17
+HR Specialist,San Francisco,Medium,16,143737.32788723247,2018-10-23
+UX Designer,Los Angeles,Small,1,80699.3912952824,2022-08-29
+Product Manager,Austin,Large,18,184847.15207242587,2022-09-13
+Data Scientist,Denver,Large,15,160587.48095152888,2018-04-18
+Data Scientist,Austin,Large,17,199444.73274923294,2022-11-02
+Software Engineer,Austin,Large,20,181037.4238162756,2021-07-17
+QA Engineer,Chicago,Small,4,83925.27167737656,2022-05-14
+UX Designer,New York,Medium,1,117378.38671643856,2020-01-01
+Software Engineer,San Francisco,Large,14,193157.2301468142,2020-01-18
+DevOps Engineer,Austin,Large,15,179771.71950309176,2019-07-01
+HR Specialist,San Francisco,Large,19,155662.30400466776,2021-01-13
+Business Analyst,Denver,Medium,13,104548.08937801448,2019-08-11
+Software Engineer,Boston,Medium,13,173058.7426744452,2021-02-02
+HR Specialist,Austin,Large,2,100958.20559567827,2018-02-22
+UX Designer,Boston,Medium,5,129861.23156304422,2020-12-24
+Product Manager,Denver,Small,4,104659.2146913573,2019-06-15
+Business Analyst,Chicago,Medium,11,108784.63929101884,2021-07-14
+Data Scientist,Boston,Small,3,145082.9881810773,2019-10-20
+Business Analyst,Seattle,Large,1,114831.42931816244,2021-04-19
+HR Specialist,Los Angeles,Small,11,92743.30810202585,2018-10-13
+UX Designer,New York,Medium,12,140565.98031696733,2018-03-04
+Data Scientist,San Francisco,Small,20,191978.90097168623,2021-08-04
+DevOps Engineer,Austin,Medium,8,140480.070697456,2020-12-04
+Product Manager,Austin,Large,7,146576.66329169576,2022-10-19
+UX Designer,Denver,Medium,16,134478.71947242427,2018-07-17
+HR Specialist,Chicago,Large,1,114681.20489682307,2019-01-04
+QA Engineer,Seattle,Small,5,123116.12155437312,2019-01-29
+DevOps Engineer,Seattle,Large,19,193208.57562116833,2021-06-22
+Data Scientist,New York,Medium,5,165480.8494666138,2022-08-16
+Business Analyst,Seattle,Small,10,105824.19906990854,2022-12-23
+QA Engineer,Denver,Medium,11,122217.13959652344,2020-07-18
+QA Engineer,Los Angeles,Medium,19,144976.92112065142,2020-11-08
+Data Scientist,Austin,Large,5,148422.9314534238,2019-01-20
+DevOps Engineer,Denver,Small,4,115491.45873371311,2019-10-29
+Software Engineer,Seattle,Large,2,144968.1481328418,2021-08-07
+HR Specialist,Los Angeles,Medium,7,105639.16892218847,2020-10-26
+Product Manager,Boston,Small,4,124332.51126652486,2020-09-03
+Product Manager,Chicago,Medium,3,125067.45739486255,2021-11-26
+HR Specialist,Los Angeles,Large,7,93279.22844372405,2018-10-05
+HR Specialist,Austin,Small,5,63856.48286500223,2020-04-14
+Data Scientist,San Francisco,Small,14,194820.03218114527,2021-08-17
+Software Engineer,Chicago,Small,7,120923.15144067798,2022-06-18
+DevOps Engineer,Austin,Large,18,173939.2125681275,2021-06-27
+HR Specialist,Seattle,Large,14,141495.8186610629,2019-07-27
+Product Manager,Seattle,Small,5,147446.92857804397,2018-12-29
+Data Scientist,Boston,Small,0,124915.66237219392,2018-10-09
+QA Engineer,Austin,Medium,0,94223.42553234885,2019-11-17
+DevOps Engineer,Boston,Large,14,199077.74963849594,2019-06-27
+QA Engineer,Denver,Small,1,78173.6244175436,2019-01-28
+Business Analyst,Austin,Large,3,105524.81920571486,2022-10-25
+UX Designer,Austin,Medium,9,126119.643209182,2020-08-13
+DevOps Engineer,Chicago,Large,14,178152.8857595665,2022-05-29
+QA Engineer,Los Angeles,Medium,17,117648.35551656917,2020-04-22
+Data Scientist,Denver,Large,11,173089.70647300748,2018-01-05
+Software Engineer,San Francisco,Medium,18,201204.25018895091,2020-02-14
+DevOps Engineer,Los Angeles,Small,10,126723.95179741419,2019-02-03
+Software Engineer,Chicago,Medium,0,114242.13079900351,2021-06-14
+Product Manager,Los Angeles,Large,20,191841.64427548813,2022-06-14
+UX Designer,San Francisco,Small,8,122030.0071569825,2021-06-06
+UX Designer,San Francisco,Medium,10,147545.2264624254,2021-09-14
+Software Engineer,Austin,Small,10,138754.17361082803,2020-05-22
+UX Designer,Austin,Large,6,139132.26145111932,2020-04-04
+DevOps Engineer,New York,Medium,20,194267.83971684647,2020-01-25
+Business Analyst,San Francisco,Small,16,157791.23896243615,2020-01-11
+QA Engineer,Los Angeles,Small,6,101551.56657221247,2018-02-04
+HR Specialist,Boston,Medium,18,127100.84760767853,2022-12-01
+DevOps Engineer,Boston,Small,12,146147.39588076057,2018-11-23
+DevOps Engineer,Los Angeles,Large,17,196860.92439829835,2020-03-28
+Software Engineer,Chicago,Small,17,129286.79719427059,2019-08-05
+DevOps Engineer,Austin,Large,3,150397.4226416847,2018-06-10
+HR Specialist,New York,Medium,18,133451.78731627634,2022-07-24
+UX Designer,San Francisco,Large,17,179470.82972074268,2022-02-23
+Business Analyst,Austin,Large,7,141285.86581779394,2020-01-20
+Data Scientist,Denver,Small,2,113752.15452497521,2019-06-24
+Software Engineer,Austin,Medium,13,162242.9298211626,2021-08-29
+HR Specialist,Seattle,Small,20,104027.33825290209,2022-12-26
+Software Engineer,Denver,Small,20,129594.67114812856,2022-08-08
+HR Specialist,Boston,Large,3,120945.70254721995,2020-10-09
+QA Engineer,Seattle,Large,9,149766.5382615257,2020-03-15
+Software Engineer,Austin,Large,11,157626.69455835654,2019-07-02
+DevOps Engineer,San Francisco,Medium,20,219456.86945063484,2020-06-06
+Product Manager,Seattle,Medium,11,163438.22690172735,2022-08-27
+HR Specialist,San Francisco,Medium,18,141130.41749363428,2019-08-18
+DevOps Engineer,San Francisco,Medium,12,171796.52280713848,2019-06-10
+Product Manager,Chicago,Medium,12,132015.61086590454,2021-05-02
+Business Analyst,Boston,Large,5,115896.57014023673,2020-02-26
+QA Engineer,San Francisco,Medium,11,148258.636553095,2018-07-24
+QA Engineer,New York,Medium,20,148512.00091757535,2021-01-01
+HR Specialist,New York,Small,20,116903.66102510026,2021-10-04
+Software Engineer,Boston,Small,20,163226.13953816768,2018-08-16
+Software Engineer,Seattle,Medium,10,134702.78590515553,2018-04-09
+Product Manager,Boston,Large,20,183704.94096629624,2021-02-25
+Data Scientist,Austin,Large,7,177603.92170430266,2019-07-31
+DevOps Engineer,New York,Large,14,184852.13159424765,2020-12-12
+UX Designer,Austin,Large,19,157392.06021259443,2018-11-09
+Data Scientist,Chicago,Large,12,175609.8510945098,2018-12-20
+QA Engineer,San Francisco,Small,7,109553.71665918325,2020-02-26
+Data Scientist,San Francisco,Small,10,159033.0931246357,2022-08-24
+Software Engineer,Boston,Large,5,176094.11897723112,2020-08-19
+UX Designer,Austin,Small,11,121378.37213888022,2018-11-03
+Business Analyst,Seattle,Medium,15,158301.4146042862,2022-05-31
+Product Manager,Los Angeles,Large,20,185918.03178733808,2020-05-01
+DevOps Engineer,Los Angeles,Small,17,161861.53345953545,2019-12-16
+UX Designer,Denver,Large,8,125516.18219132588,2018-01-10
+QA Engineer,Chicago,Medium,6,107916.87687163113,2018-01-22
+Business Analyst,Boston,Large,8,137475.2021276139,2020-09-27
+Business Analyst,Boston,Medium,19,149224.63284033266,2020-06-11
+Product Manager,New York,Large,9,183841.05781329036,2019-10-14
+Product Manager,Seattle,Small,1,128642.06114862624,2022-08-24
+QA Engineer,Austin,Medium,11,134118.59619760717,2018-10-15
+QA Engineer,Chicago,Small,12,108640.15065629137,2021-01-10
+Data Scientist,Los Angeles,Small,9,138002.96101626058,2020-12-24
+Software Engineer,New York,Medium,12,180458.57528718494,2019-10-25
+Software Engineer,Los Angeles,Large,6,175049.0464323439,2018-02-25
+Business Analyst,San Francisco,Medium,6,131816.29055929973,2022-01-27
+QA Engineer,San Francisco,Medium,16,151436.3951191137,2018-05-14
+Software Engineer,Seattle,Medium,4,134512.13083339675,2018-05-19
+HR Specialist,San Francisco,Small,13,108401.40829028099,2022-06-29
+Software Engineer,Boston,Small,4,120206.76013652924,2020-06-07
+UX Designer,Chicago,Large,13,146568.92757709287,2022-05-21
+Data Scientist,Denver,Large,7,152556.1268822807,2018-05-24
+QA Engineer,Denver,Medium,20,124717.88473904888,2020-06-09
+Data Scientist,New York,Large,5,176488.60032721434,2018-10-14
+QA Engineer,Chicago,Large,16,162230.98212860446,2018-02-20
+QA Engineer,Austin,Medium,2,107656.20789375505,2021-02-11
+Software Engineer,Chicago,Small,2,102585.76955719029,2019-11-15
+QA Engineer,Denver,Small,8,100289.3181775551,2021-06-01
+DevOps Engineer,Boston,Medium,10,155074.64974900638,2020-04-19
+QA Engineer,San Francisco,Large,1,137112.00376156293,2019-04-17
+Software Engineer,San Francisco,Large,7,180573.5469706289,2019-08-01
+HR Specialist,Seattle,Large,5,118456.45176937983,2022-02-08
+Product Manager,Boston,Medium,17,156628.88700963827,2021-05-19
+Software Engineer,Los Angeles,Small,18,150341.879516389,2021-02-03
+Product Manager,Los Angeles,Medium,7,115276.03732335946,2019-06-26
+HR Specialist,Austin,Small,15,107585.4855264754,2018-05-03
+QA Engineer,Austin,Small,20,134825.20824778583,2021-11-06
+UX Designer,Denver,Small,10,117916.88801240915,2021-06-24
+Software Engineer,San Francisco,Large,9,181910.76631402705,2018-05-14
+Business Analyst,Denver,Medium,3,92364.41012720733,2019-06-30
+DevOps Engineer,Boston,Small,11,147121.49068019903,2022-12-16
+HR Specialist,Denver,Medium,12,99664.36548156149,2021-02-26
+HR Specialist,Chicago,Large,6,108868.22354796846,2019-01-27
+UX Designer,Denver,Medium,4,103079.54050283106,2020-04-18
+DevOps Engineer,Seattle,Medium,3,157016.31749859772,2020-06-28
+Data Scientist,New York,Medium,0,139734.8470058894,2022-12-11
+Software Engineer,Los Angeles,Large,17,182025.02266788072,2020-03-07
+QA Engineer,Austin,Small,5,92751.94612687046,2020-08-06
+Business Analyst,Los Angeles,Large,10,132388.00473306805,2019-01-09
+Software Engineer,Boston,Small,2,137215.57069440588,2021-12-01
+Data Scientist,Denver,Large,10,169618.5318942685,2018-09-22
+Product Manager,San Francisco,Medium,11,179635.43824692213,2018-12-30
+UX Designer,Boston,Small,14,144322.36996047664,2018-01-30
+Product Manager,San Francisco,Small,2,117063.15233673848,2018-10-24
+Data Scientist,New York,Medium,14,184196.98346143097,2020-03-29
+Data Scientist,Los Angeles,Medium,14,175361.89823707123,2021-08-28
+HR Specialist,Austin,Medium,16,132425.19471699683,2022-06-17
+Product Manager,Boston,Small,2,88209.05013434797,2020-06-30
+DevOps Engineer,Denver,Small,13,146791.1274954764,2018-03-05
+Data Scientist,Chicago,Small,20,173770.3884000446,2022-09-07
+Software Engineer,Los Angeles,Large,12,163854.0202426911,2019-04-29
+Software Engineer,Chicago,Large,5,127976.0335701943,2018-09-17
+Product Manager,Boston,Small,0,118073.48103529686,2018-09-08
+Data Scientist,Seattle,Small,13,171756.1354467127,2018-05-12
+Business Analyst,Los Angeles,Medium,19,156044.14249539186,2022-05-05
+UX Designer,San Francisco,Medium,0,116892.92751742864,2020-10-23
+Data Scientist,Boston,Medium,0,133288.918276973,2019-12-02
+Software Engineer,Chicago,Large,13,170834.24275217293,2022-09-02
+Software Engineer,Denver,Medium,9,143793.55436586,2022-12-24
+DevOps Engineer,San Francisco,Large,8,200008.3368291277,2019-03-10
+UX Designer,Los Angeles,Medium,19,154705.52715319334,2022-12-26
+Product Manager,Seattle,Medium,2,125687.64788439432,2019-11-08
+Data Scientist,Seattle,Medium,13,174925.81996385552,2019-05-18
+Product Manager,New York,Large,13,177073.64165945677,2019-03-24
+QA Engineer,Los Angeles,Small,20,124496.45407739018,2018-07-29
+DevOps Engineer,New York,Large,4,192197.70358611865,2019-03-28
+HR Specialist,San Francisco,Large,2,117219.98699288968,2021-10-14
+QA Engineer,Chicago,Large,14,125459.81158951693,2022-01-14
+Business Analyst,Seattle,Small,20,152968.7908432862,2021-11-24
+QA Engineer,Seattle,Medium,19,157771.5854861915,2020-05-21
+HR Specialist,New York,Small,18,106781.93138604527,2019-11-18
+Software Engineer,Los Angeles,Medium,14,174897.37102530137,2019-01-21
+UX Designer,Chicago,Large,9,116703.29534076918,2021-07-21
+HR Specialist,Boston,Large,0,85712.2017748779,2020-08-18
+Software Engineer,Los Angeles,Medium,9,146018.00127605945,2020-04-02
+Data Scientist,Chicago,Medium,14,158365.1002100651,2022-12-19
+HR Specialist,Denver,Small,19,87804.31951894281,2020-07-25
+Data Scientist,San Francisco,Medium,2,165432.23342195546,2019-07-29
+QA Engineer,Denver,Small,7,76155.42166319725,2020-06-27
+Business Analyst,Denver,Large,9,138770.0414760013,2018-04-07
+DevOps Engineer,Chicago,Medium,9,133615.01939270465,2022-08-22
+UX Designer,Los Angeles,Large,11,144480.40419078994,2021-08-07
+Data Scientist,Los Angeles,Medium,19,196205.43374010877,2021-02-14
+QA Engineer,Seattle,Small,16,112248.5659335892,2018-11-03
+HR Specialist,Seattle,Large,14,151008.036055637,2022-02-02
+Software Engineer,San Francisco,Large,4,192961.9169499607,2020-02-23
+Software Engineer,Boston,Small,2,125730.40077215577,2020-09-17
+Data Scientist,San Francisco,Large,13,215408.83419891418,2020-03-02
+Software Engineer,Seattle,Small,17,160585.42593621265,2019-09-11
+Business Analyst,Denver,Large,10,129925.34891821336,2019-09-18
+Business Analyst,Seattle,Medium,19,149993.1580874238,2019-04-08
+Data Scientist,Denver,Small,5,123854.27146624819,2021-08-03
+Business Analyst,Chicago,Large,1,110891.05836863932,2019-10-21
+Software Engineer,Los Angeles,Large,7,151466.05653364342,2021-05-24
+Product Manager,Los Angeles,Small,13,132783.45464275443,2019-06-01
+HR Specialist,Chicago,Small,15,105797.40273393576,2020-01-05
+Data Scientist,New York,Medium,1,152358.61653407008,2021-02-13
+QA Engineer,San Francisco,Small,12,133859.62410303482,2019-10-07
+Data Scientist,Austin,Medium,5,157094.7048892464,2018-12-16
+Software Engineer,New York,Small,8,131273.92184863007,2019-06-09
+Product Manager,Boston,Large,0,134029.99958789302,2018-07-22
+QA Engineer,Denver,Small,11,88533.25666870916,2021-01-21
+Business Analyst,Boston,Large,0,113785.38252310499,2022-09-22
+Software Engineer,Austin,Large,7,138503.10206592508,2018-07-01
+DevOps Engineer,New York,Medium,13,212544.669772878,2022-02-08
+HR Specialist,New York,Medium,20,140330.27042965798,2019-08-06
+Software Engineer,San Francisco,Small,1,114967.26632584736,2018-03-05
+Business Analyst,Austin,Large,5,128154.70971568224,2021-08-22
+UX Designer,Austin,Large,12,139832.00108336634,2022-01-31
+Business Analyst,Boston,Large,3,140003.7041293411,2021-01-17
+Product Manager,Denver,Small,12,109640.35411133323,2020-05-13
+HR Specialist,Boston,Medium,14,114953.24923133226,2019-10-10
+Product Manager,Los Angeles,Medium,3,115261.33779642411,2021-05-23
+UX Designer,New York,Small,10,143836.79910088982,2019-06-25
+Business Analyst,Seattle,Medium,6,146146.26500830473,2022-02-24
+Data Scientist,New York,Small,9,161522.82717458284,2020-05-25
+UX Designer,Seattle,Medium,6,123063.7040974354,2018-04-29
+Software Engineer,Denver,Large,12,161563.32608741507,2020-07-29
+DevOps Engineer,Chicago,Small,8,131855.90144304885,2020-04-23
+Software Engineer,San Francisco,Small,9,163472.82495697125,2021-05-28
+HR Specialist,Los Angeles,Small,4,96234.50498701038,2018-07-11
+UX Designer,Denver,Medium,17,118170.51926975993,2020-07-01
+UX Designer,New York,Small,17,138741.03537616087,2019-11-27
+Software Engineer,San Francisco,Large,20,214359.42898129375,2021-03-11
+HR Specialist,Boston,Large,2,114886.79116794911,2021-03-23
+Data Scientist,Chicago,Small,1,137773.23001591352,2019-04-29
+Product Manager,Denver,Small,17,112273.81171786561,2019-09-29
+Data Scientist,San Francisco,Large,6,173060.93574820977,2019-06-08
+UX Designer,Chicago,Large,3,121998.33079185277,2019-09-29
+QA Engineer,Chicago,Small,0,101333.96623128538,2018-05-08
+Product Manager,San Francisco,Small,5,129269.35920437281,2021-06-20
+UX Designer,New York,Small,11,128412.14774303032,2018-09-22
+HR Specialist,Boston,Medium,7,109506.26335381104,2021-12-17
+Software Engineer,Austin,Medium,5,154278.55949625894,2019-11-05
+Business Analyst,Seattle,Medium,5,142125.72386837704,2018-01-06
+UX Designer,Los Angeles,Medium,11,131680.19009366047,2018-12-28
+UX Designer,Boston,Small,14,127549.60824036077,2021-10-13
+DevOps Engineer,San Francisco,Large,15,199647.8550309502,2020-03-02
+Data Scientist,Los Angeles,Large,15,179628.0109421839,2021-04-15
+HR Specialist,Chicago,Small,19,101506.1942097475,2019-07-10
+UX Designer,San Francisco,Small,20,153244.19649270858,2021-10-03
+Business Analyst,Los Angeles,Small,20,127706.06164952196,2020-11-09
+UX Designer,Chicago,Medium,13,122776.93919855962,2020-12-14
+Software Engineer,San Francisco,Small,1,127195.76913931455,2020-12-02
+Data Scientist,San Francisco,Large,2,167430.33393826126,2019-08-31
+Software Engineer,Denver,Medium,2,92871.09407047517,2021-11-22
+Product Manager,Denver,Medium,4,113661.22431539727,2021-06-20
+Software Engineer,Chicago,Medium,12,118534.57084115692,2019-10-08
+HR Specialist,New York,Medium,13,131684.41006256154,2020-05-29
+DevOps Engineer,San Francisco,Large,20,236225.9411328149,2018-05-09
+Software Engineer,Austin,Medium,2,126121.8115736913,2018-02-05
+Software Engineer,San Francisco,Medium,0,142908.81003355797,2022-07-22
+Business Analyst,Chicago,Small,13,115985.67428672324,2020-07-14
+Data Scientist,Boston,Small,1,125527.77885042544,2019-02-16
+QA Engineer,New York,Small,14,130166.49924897107,2018-01-04
+HR Specialist,Los Angeles,Small,13,105088.9275435673,2018-09-29
+Software Engineer,Boston,Large,5,136500.67134828848,2022-03-21
+Product Manager,Boston,Large,1,148045.8634234519,2020-11-15
+Data Scientist,New York,Medium,10,186459.17825793813,2018-12-07
+Data Scientist,Denver,Large,8,166863.09513179096,2019-12-06
+QA Engineer,San Francisco,Medium,13,150444.49714360124,2020-11-29
+Data Scientist,Seattle,Large,7,174296.71513246052,2020-11-08
+QA Engineer,Denver,Small,19,121285.38007928443,2018-04-24
+Business Analyst,Boston,Large,2,129235.29060476593,2021-08-01
+Product Manager,Seattle,Medium,13,154697.97761378167,2018-06-08
+DevOps Engineer,Denver,Medium,20,149376.92843612382,2022-05-01
+DevOps Engineer,Denver,Small,9,112195.43773943323,2020-07-15
+Data Scientist,Boston,Small,17,172221.99239174003,2021-08-27
+QA Engineer,Boston,Medium,4,111626.90150827004,2020-04-12
+Data Scientist,Seattle,Large,20,227552.9149960109,2022-02-28
+HR Specialist,Denver,Small,3,72424.03393141208,2021-05-18
+HR Specialist,Austin,Small,19,114834.33331781544,2019-01-17
+Software Engineer,Boston,Medium,12,161510.4546101518,2019-11-05
+UX Designer,Los Angeles,Small,0,95716.52828563516,2020-03-04
+Software Engineer,New York,Small,10,124182.86428737853,2021-01-06
+HR Specialist,San Francisco,Large,16,150034.91811227976,2020-05-21
+Business Analyst,Los Angeles,Small,18,121864.6092843669,2019-08-27
+Data Scientist,Denver,Large,0,131241.82604181787,2018-07-02
+Product Manager,Los Angeles,Large,16,154234.7371047031,2018-06-02
+UX Designer,Denver,Large,6,107323.85961489352,2021-08-21
+UX Designer,Austin,Large,4,136697.98484453256,2021-07-31
+HR Specialist,New York,Medium,14,129884.16008297428,2020-04-15
+HR Specialist,Seattle,Small,7,104567.3110078362,2020-05-15
+Business Analyst,New York,Large,16,185536.58886318107,2019-02-26
+UX Designer,Chicago,Small,8,103867.41566595924,2020-11-26
+Software Engineer,New York,Small,3,136918.08440838484,2021-03-21
+Product Manager,Los Angeles,Medium,12,158504.68426412536,2019-05-31
+HR Specialist,Seattle,Medium,10,120278.35756289624,2021-07-29
+Business Analyst,San Francisco,Medium,8,132811.90805978965,2022-08-31
+Software Engineer,San Francisco,Medium,19,177676.43410623996,2021-11-14
+UX Designer,Boston,Large,13,139295.92721150772,2022-11-24
+Data Scientist,Seattle,Small,14,177242.8501636277,2018-10-01
+QA Engineer,Boston,Medium,20,131964.41360832698,2018-03-09
+Product Manager,Los Angeles,Medium,10,140941.37547113295,2019-04-04
+DevOps Engineer,Seattle,Small,12,153064.2824996462,2021-09-26
+UX Designer,Austin,Medium,14,132901.06750282212,2019-02-01
+HR Specialist,Seattle,Small,10,111714.45812365583,2021-08-05
+Business Analyst,Chicago,Large,6,131413.66788251835,2022-09-16
+Business Analyst,San Francisco,Small,14,144334.47545737863,2018-08-08
+Data Scientist,Seattle,Small,2,122732.58207795722,2021-10-10
+UX Designer,Los Angeles,Large,9,122705.6425640634,2019-02-03
+HR Specialist,Chicago,Large,1,105027.53895105759,2020-06-09
+HR Specialist,Boston,Small,19,126232.94951802414,2022-02-22
+DevOps Engineer,Seattle,Small,13,157322.8051428205,2020-02-29
+Data Scientist,New York,Small,19,177425.078221979,2020-03-23
+DevOps Engineer,Los Angeles,Large,4,145907.4169967659,2021-02-03
+UX Designer,Denver,Small,3,96520.56947405868,2022-05-20
+Software Engineer,Boston,Medium,20,180487.20502869633,2020-10-02
+HR Specialist,Denver,Small,9,69703.43685429906,2020-01-17
+QA Engineer,Seattle,Small,6,121489.84103427184,2021-08-04
+QA Engineer,Chicago,Large,4,127687.09952567879,2020-07-16
+HR Specialist,Chicago,Medium,17,132620.92888159124,2022-07-27
+UX Designer,Seattle,Large,16,155604.57160125152,2021-03-09
+QA Engineer,Seattle,Medium,5,122658.84383084327,2019-11-18
+Business Analyst,Seattle,Large,15,153974.8531101057,2022-09-11
+Business Analyst,San Francisco,Medium,19,167399.07055605308,2019-11-22
+Product Manager,Seattle,Large,14,167166.13175670794,2019-06-28
+UX Designer,Los Angeles,Large,14,165676.9256633419,2018-04-04
+Business Analyst,Chicago,Large,6,141737.86305934613,2018-10-26
+UX Designer,Boston,Medium,17,161827.43528272188,2018-02-02
+QA Engineer,Austin,Small,12,114772.12314620698,2021-06-18
+QA Engineer,Austin,Medium,2,104933.00419992853,2019-05-17
+Software Engineer,Austin,Small,4,90470.92699508916,2021-01-28
+QA Engineer,Seattle,Medium,3,106485.01666836513,2021-04-04
+Business Analyst,Denver,Medium,2,115412.5921454787,2020-10-15
+DevOps Engineer,Chicago,Small,19,145400.53743413728,2018-05-20
+Data Scientist,Seattle,Small,11,148571.3825225368,2022-04-07
+HR Specialist,New York,Medium,9,108463.95386980302,2018-03-16
+QA Engineer,Chicago,Small,12,115992.57433015379,2018-09-28
+UX Designer,New York,Small,6,140033.05298603466,2020-01-04
+Business Analyst,Denver,Medium,10,114669.90717224871,2022-06-17
+QA Engineer,New York,Medium,11,142409.39217704098,2020-07-20
+DevOps Engineer,San Francisco,Small,20,196312.64679621827,2018-03-15
+QA Engineer,Los Angeles,Small,18,108633.10576830752,2021-12-27
+Data Scientist,Boston,Small,8,135840.8193865192,2021-05-14
+Business Analyst,San Francisco,Small,1,111731.20588379494,2022-12-05
+Software Engineer,Austin,Small,6,125762.8205716551,2020-05-11
+DevOps Engineer,Chicago,Medium,0,138865.04812593517,2020-09-12
+QA Engineer,Boston,Medium,15,132541.4852170938,2019-10-22
+HR Specialist,Austin,Small,6,87287.04323952379,2019-12-19
+UX Designer,Los Angeles,Large,7,128018.33161792654,2021-05-01
+HR Specialist,Austin,Large,16,119626.3601543456,2020-05-17
+HR Specialist,Denver,Small,19,115187.8725412209,2020-08-01
+DevOps Engineer,Denver,Small,14,135226.81073992854,2018-03-19
+UX Designer,Seattle,Medium,8,148065.9396548159,2020-08-04
+Business Analyst,New York,Small,2,114948.67850709081,2020-01-30
+Data Scientist,New York,Large,5,173466.36203939733,2021-12-19
+Software Engineer,Austin,Large,4,122448.23124417056,2022-03-01
+Product Manager,Los Angeles,Medium,7,140862.28934575207,2022-07-22
+QA Engineer,Boston,Large,8,125384.55914461006,2021-06-22
+Business Analyst,Los Angeles,Medium,7,91534.0260072712,2018-12-16
+UX Designer,New York,Large,15,180446.24849570933,2021-12-11
+QA Engineer,Austin,Large,17,146199.22760864178,2022-05-27
+Data Scientist,Denver,Small,15,127568.22572070191,2018-07-04
+QA Engineer,Seattle,Medium,5,122201.17706404647,2020-02-27
+Data Scientist,Denver,Small,20,145775.31933293803,2018-09-28
+DevOps Engineer,Boston,Medium,3,131565.79621984178,2018-09-24
+Product Manager,San Francisco,Small,19,173168.4594068736,2020-06-16
+Software Engineer,Chicago,Medium,4,129577.72740951847,2021-03-27
+Product Manager,Seattle,Small,10,133725.84378086778,2018-12-20
+Business Analyst,Seattle,Small,20,151007.57755441088,2021-05-24
+UX Designer,Chicago,Medium,15,124005.39024446756,2019-06-11
+UX Designer,Los Angeles,Medium,0,98847.15223600919,2022-11-22
+Product Manager,Denver,Medium,10,121892.91340897583,2020-05-24
+Business Analyst,Los Angeles,Medium,16,136909.76798602787,2018-01-21
+Product Manager,Austin,Small,19,155702.32348167873,2020-07-23
+HR Specialist,New York,Medium,2,99353.82702701607,2021-10-05
+Data Scientist,Seattle,Small,7,149755.59655872843,2018-02-14
+Business Analyst,Los Angeles,Large,2,120811.79579546415,2022-08-12
+Business Analyst,Boston,Large,20,187634.28999058285,2020-05-28
+DevOps Engineer,Seattle,Medium,3,149786.3009927356,2018-02-09
+QA Engineer,Denver,Medium,18,127291.87130147663,2018-03-08
+DevOps Engineer,Austin,Large,1,124884.2144586768,2021-04-30
+QA Engineer,Los Angeles,Medium,2,80190.0879246695,2018-05-25
+DevOps Engineer,Denver,Medium,19,158206.23096443815,2022-04-07
+Software Engineer,Chicago,Large,15,162135.35545098074,2022-10-11
+DevOps Engineer,Austin,Large,9,172631.14309396004,2022-07-13
+Business Analyst,Chicago,Large,8,132233.12953124114,2020-11-30
+UX Designer,Denver,Small,18,119952.8731340134,2020-06-10
+Data Scientist,Chicago,Small,0,131781.83676795123,2019-03-04
+UX Designer,San Francisco,Medium,10,154756.1039825289,2022-10-26
+UX Designer,Los Angeles,Medium,8,136497.23619523767,2018-06-16
+DevOps Engineer,Chicago,Small,15,148620.54675561498,2018-05-14
+UX Designer,Austin,Large,13,138343.6868807961,2018-08-30
+QA Engineer,Denver,Small,4,79398.58145592731,2018-04-30
+Data Scientist,Boston,Small,8,136917.28302868528,2018-12-25
+Data Scientist,Seattle,Large,16,197883.77340088383,2021-03-14
+Software Engineer,Seattle,Small,7,134332.62284629818,2021-07-18
+Product Manager,Chicago,Small,18,135700.33638901592,2021-07-11
+UX Designer,Chicago,Small,2,77346.34188102832,2020-08-31
+UX Designer,New York,Medium,8,160658.8392407876,2019-06-26
+DevOps Engineer,San Francisco,Medium,16,198410.42382078714,2021-06-08
+UX Designer,Chicago,Medium,7,111863.34771025128,2021-10-18
+QA Engineer,Boston,Small,2,80947.97200647513,2019-01-15
+DevOps Engineer,Austin,Small,19,157937.39752934503,2020-04-09
+Data Scientist,Chicago,Small,7,114700.48500535071,2021-06-26
+UX Designer,Seattle,Small,6,118103.74510419182,2022-02-18
+Software Engineer,Austin,Medium,8,153764.50446023146,2018-01-27
+HR Specialist,Boston,Small,8,97369.36721335982,2018-08-21
+Business Analyst,Denver,Small,6,109066.1703550959,2021-12-01
+HR Specialist,Austin,Medium,18,127261.0619851747,2018-09-04
+Data Scientist,Los Angeles,Large,11,176271.8440158435,2021-05-28
+HR Specialist,Boston,Small,12,86860.09297967867,2019-05-18
+Software Engineer,Denver,Medium,4,127750.38314076117,2021-07-31
+Data Scientist,Austin,Medium,12,159910.04840832963,2019-04-25
+DevOps Engineer,San Francisco,Large,3,180074.79782666452,2021-05-18
+QA Engineer,Austin,Large,7,122833.43032907699,2019-03-02
+Product Manager,Denver,Small,6,106608.5188295877,2018-02-03
+Business Analyst,Boston,Small,9,127785.25105239917,2019-06-22
+DevOps Engineer,New York,Large,8,166085.16470582646,2019-03-03
+Business Analyst,Seattle,Large,19,186366.78807397795,2018-07-18
+DevOps Engineer,Austin,Medium,7,151828.03778086786,2022-04-19
+Data Scientist,San Francisco,Medium,11,189034.62488561068,2020-04-21
+QA Engineer,Boston,Medium,16,117801.50954502361,2019-11-08
+Business Analyst,San Francisco,Large,5,154144.7850370678,2018-05-26
+UX Designer,Austin,Small,8,117554.01514466952,2018-06-19
+DevOps Engineer,Seattle,Medium,2,165428.2515987275,2020-02-02
+Business Analyst,Denver,Large,15,122064.70649956756,2021-03-01
+Software Engineer,Austin,Small,3,121202.38167874595,2019-05-29
+HR Specialist,Seattle,Small,6,72850.78342287207,2019-08-31
+QA Engineer,Los Angeles,Small,0,87555.34481132025,2019-08-25
+UX Designer,New York,Large,10,161055.7267209405,2020-03-31
+Business Analyst,Austin,Medium,10,136503.02361982767,2022-02-11
+HR Specialist,New York,Medium,0,88165.93811733469,2020-02-12
+UX Designer,San Francisco,Small,17,144202.60652929085,2021-10-16
+Product Manager,Austin,Small,3,110042.47729121722,2018-05-18
+Product Manager,Chicago,Medium,10,121318.54521969153,2022-04-15
+Product Manager,Boston,Large,20,182336.88660767433,2021-07-09
+Software Engineer,Boston,Medium,4,135685.65929083,2019-12-18
+DevOps Engineer,Seattle,Medium,8,162369.82425061078,2021-12-29
+QA Engineer,Boston,Large,14,145544.96515978512,2021-02-27
+QA Engineer,Chicago,Small,18,119640.44609241451,2020-07-17
+Software Engineer,New York,Small,18,168604.95504753594,2021-12-15
+UX Designer,Boston,Large,6,121375.00680055142,2020-09-18
+Product Manager,San Francisco,Large,2,159399.9997178791,2020-04-11
+Product Manager,Boston,Small,2,109442.88909618836,2018-02-09
+Software Engineer,Los Angeles,Medium,18,160080.85520313017,2019-06-04
+QA Engineer,San Francisco,Small,3,98859.67913430062,2018-05-25
+Business Analyst,Los Angeles,Large,20,144044.37683210318,2018-09-02
+UX Designer,Chicago,Small,10,119151.60028252861,2018-11-13
+UX Designer,Boston,Small,19,130453.0561871314,2018-08-10
+Data Scientist,Austin,Large,15,188386.43158758062,2021-04-22
+UX Designer,Seattle,Medium,3,111782.67699137381,2019-08-11
+Business Analyst,Denver,Large,10,118862.33661351181,2021-01-28
+Data Scientist,Austin,Medium,16,186179.56259988277,2018-02-22
+UX Designer,Denver,Small,2,85551.02174416509,2020-01-26
+Business Analyst,San Francisco,Small,16,132871.53379305397,2020-09-14
+Product Manager,Denver,Medium,2,118830.88998213032,2021-10-16
+QA Engineer,Boston,Large,13,150677.96009522618,2019-11-21
+HR Specialist,Chicago,Small,10,82096.47626936555,2018-08-26
+Software Engineer,New York,Medium,20,203953.89188547354,2018-05-20
+Product Manager,Los Angeles,Medium,14,142524.43062756947,2019-10-03
+Product Manager,New York,Medium,16,172012.71663732827,2018-09-12
+Data Scientist,Denver,Small,12,130355.2836263167,2018-03-01
+HR Specialist,Boston,Small,0,86314.48207541583,2019-12-01
+Business Analyst,San Francisco,Medium,13,166311.50238316428,2019-02-24
+UX Designer,Chicago,Large,5,125400.72310528293,2020-07-06
+UX Designer,Boston,Small,1,81733.12229049674,2022-11-18
+QA Engineer,Austin,Large,5,115157.31044339172,2021-12-23
+Software Engineer,New York,Medium,1,138055.56188355136,2021-10-09
+Software Engineer,Boston,Large,1,150662.19186770788,2020-05-03
+HR Specialist,Chicago,Large,6,97188.9474528159,2018-08-27
+Business Analyst,San Francisco,Small,8,124869.37778770637,2019-06-07
+DevOps Engineer,Denver,Small,9,108301.33022745776,2020-03-04
+UX Designer,Los Angeles,Medium,19,148463.02404227862,2019-09-18
+UX Designer,Chicago,Small,14,137099.39677200842,2020-02-21
+DevOps Engineer,Denver,Small,7,117734.25687808006,2019-05-29
+Software Engineer,Los Angeles,Medium,10,127509.24095110882,2020-08-12
+UX Designer,San Francisco,Large,16,173060.09967778434,2019-12-09
+DevOps Engineer,Chicago,Small,17,145778.28981372106,2018-01-28
+Data Scientist,Chicago,Small,11,129763.50059625314,2018-06-02
+Data Scientist,San Francisco,Large,18,244631.8777104034,2022-08-18
+Product Manager,New York,Medium,14,166876.46108529618,2022-06-18
+HR Specialist,Los Angeles,Large,4,110956.50393328392,2021-11-27
+Software Engineer,Denver,Medium,0,101575.99517463203,2018-03-20
+QA Engineer,Austin,Small,4,100332.75843894458,2020-06-17
+HR Specialist,Seattle,Large,16,143369.017705073,2018-04-01
+QA Engineer,Seattle,Large,18,163145.50781029716,2018-06-01
+QA Engineer,New York,Small,4,85097.857221274,2020-03-14
+Data Scientist,Austin,Large,15,188458.28333370865,2018-05-26
+HR Specialist,Chicago,Large,11,114927.17150605936,2019-12-05
+Business Analyst,New York,Small,8,110714.04940953142,2019-09-30
+Product Manager,Chicago,Medium,0,116731.37269907533,2018-02-24
+Software Engineer,San Francisco,Large,3,174296.5495975994,2022-04-03
+Product Manager,Seattle,Medium,11,155102.9868978581,2020-10-02
+DevOps Engineer,San Francisco,Small,10,158060.85494230784,2022-05-20
+QA Engineer,San Francisco,Small,9,114995.8081685242,2018-08-06
+DevOps Engineer,Boston,Small,5,131941.06711546553,2018-01-12
+Software Engineer,Chicago,Small,3,101596.1205763593,2018-01-24
+DevOps Engineer,Seattle,Small,10,160993.36118002815,2021-11-19
+UX Designer,New York,Medium,5,127935.05492696661,2020-11-09
+Business Analyst,San Francisco,Medium,11,166321.71932528878,2018-01-09
+DevOps Engineer,Boston,Medium,14,166903.0487531036,2019-11-01
+Business Analyst,Los Angeles,Small,0,95972.34764195232,2022-11-08
+Software Engineer,Denver,Small,11,122427.60841236517,2021-04-19
+Product Manager,San Francisco,Large,7,171679.87701856022,2022-05-22
+Business Analyst,San Francisco,Small,3,120797.9491647869,2022-07-29
+Software Engineer,New York,Small,14,164062.8087971737,2019-11-11
+Business Analyst,Seattle,Medium,3,126210.90833061143,2021-07-11
+DevOps Engineer,San Francisco,Small,11,164667.26376711208,2019-08-28
+Software Engineer,San Francisco,Medium,9,157368.58619463778,2021-09-28
+QA Engineer,Los Angeles,Large,10,121285.94216199486,2021-08-29
+Data Scientist,San Francisco,Large,19,249239.83437214355,2018-08-23
+Business Analyst,Denver,Small,13,98741.86811965099,2019-07-16
+Software Engineer,San Francisco,Medium,4,138730.06644325328,2022-04-29
+DevOps Engineer,San Francisco,Medium,5,164293.47938377832,2018-03-07
+Business Analyst,Los Angeles,Small,20,132746.95005646782,2018-08-18
+DevOps Engineer,Chicago,Medium,13,156262.86291045867,2021-01-18
+DevOps Engineer,Boston,Large,2,149286.50836447134,2019-01-11
+QA Engineer,Austin,Small,16,105290.5767018517,2018-02-21
+Product Manager,Boston,Medium,10,161065.70494117413,2018-05-03
+HR Specialist,Seattle,Large,15,126292.97522615302,2021-02-05
+HR Specialist,Austin,Medium,11,103122.2358855197,2020-02-24
+Business Analyst,Denver,Medium,17,111126.37049891433,2022-08-01
+DevOps Engineer,Seattle,Large,1,146469.7207070937,2020-09-06
+Software Engineer,New York,Large,7,188257.25529692508,2019-10-25
+Software Engineer,Los Angeles,Medium,3,135457.57942148185,2020-02-04
+Data Scientist,Austin,Medium,11,148107.27042128835,2022-08-18
+QA Engineer,New York,Small,9,114575.49844839465,2018-08-25
+HR Specialist,Los Angeles,Large,4,109230.05796499594,2019-10-11
+Data Scientist,Boston,Large,11,177234.29295306254,2019-06-23
+DevOps Engineer,Los Angeles,Large,1,145322.93685309248,2018-11-01
+Data Scientist,Los Angeles,Small,6,119614.85529636813,2021-04-13
+DevOps Engineer,Austin,Large,16,167645.39533184055,2019-03-21
+Product Manager,New York,Medium,16,166403.70174239995,2021-02-08
+Product Manager,New York,Small,17,166193.7559916277,2018-02-04
+Software Engineer,New York,Small,19,170917.73067836434,2018-03-30
+Data Scientist,San Francisco,Small,0,130860.60580603355,2019-02-07
+DevOps Engineer,New York,Small,8,151133.94453115235,2021-03-22
+HR Specialist,Austin,Small,2,88212.12980472484,2021-05-24
+Software Engineer,Austin,Large,12,172836.73887394165,2022-02-09
+Software Engineer,Los Angeles,Small,20,149554.24896902638,2021-09-27
+UX Designer,Denver,Medium,19,116588.24309948442,2022-05-26
+HR Specialist,San Francisco,Large,15,148599.1105215395,2021-04-27
+DevOps Engineer,Seattle,Medium,3,153051.59712065788,2021-01-25
+Business Analyst,Los Angeles,Large,7,127389.37009227273,2022-06-27
+UX Designer,New York,Small,9,126744.29227556517,2021-10-26
+Business Analyst,Boston,Large,12,162120.8470216997,2021-05-31
+Business Analyst,Chicago,Small,8,97381.91920838389,2018-06-03
+HR Specialist,Denver,Large,5,97141.52417488027,2019-12-20
+QA Engineer,Seattle,Large,18,172637.90412978502,2021-11-08
+Business Analyst,San Francisco,Small,12,128753.39953238878,2019-04-06
+Software Engineer,New York,Medium,4,157135.9665924659,2022-06-10
+Data Scientist,Chicago,Large,14,183204.43229322648,2018-03-05
+Business Analyst,Los Angeles,Medium,20,134583.3014193271,2022-04-05
+Product Manager,Denver,Large,9,137710.1541225523,2019-08-25
+HR Specialist,Austin,Medium,8,109832.79396295422,2021-01-06
+Data Scientist,San Francisco,Large,20,226286.662737472,2020-08-16
+DevOps Engineer,San Francisco,Small,18,189055.2305913618,2019-12-17
+Software Engineer,Los Angeles,Large,6,147240.03381279617,2019-08-29
+Data Scientist,Denver,Large,6,143662.2020256822,2019-01-21
+Product Manager,San Francisco,Small,8,151928.38151497362,2019-10-25
+DevOps Engineer,Chicago,Small,2,116139.0180213122,2022-07-11
+QA Engineer,Denver,Small,16,102432.31775511369,2020-05-14
+Software Engineer,Denver,Medium,16,144597.11008608388,2021-01-04
+Product Manager,Boston,Large,5,150655.4516964238,2020-07-27
+Data Scientist,San Francisco,Large,20,258432.23183299717,2021-12-08
+HR Specialist,Boston,Medium,2,96079.36397214691,2021-03-14
+UX Designer,Los Angeles,Large,10,126768.58673123493,2019-03-04
+DevOps Engineer,Austin,Small,4,112837.05114202425,2020-09-14
+Business Analyst,Chicago,Large,2,100659.15163747779,2019-11-11
+Data Scientist,San Francisco,Medium,20,225220.595085768,2022-02-05
+QA Engineer,Austin,Small,5,110187.48485651203,2020-09-08
+QA Engineer,Chicago,Large,0,95265.58970747853,2019-05-01
+Software Engineer,Los Angeles,Small,18,143000.65016792252,2021-06-22
+Business Analyst,Seattle,Small,12,129341.49718081128,2019-12-21
+DevOps Engineer,Denver,Large,13,166104.8060100692,2018-11-23
+HR Specialist,Seattle,Small,17,122390.22784083347,2020-09-23
+Software Engineer,San Francisco,Small,7,147045.9699541159,2022-12-16
+Software Engineer,Chicago,Medium,4,117155.04665299931,2019-01-27
+DevOps Engineer,San Francisco,Small,17,173869.4269705144,2018-03-14
+Data Scientist,Seattle,Large,2,181751.21070420736,2020-11-15
+Software Engineer,San Francisco,Large,15,212501.64019823924,2022-07-20
+DevOps Engineer,New York,Large,6,198208.72637024283,2022-05-28
+QA Engineer,Denver,Medium,19,118733.19915412733,2019-11-27
+Product Manager,Seattle,Large,14,174691.44889673946,2019-01-25
+QA Engineer,New York,Medium,2,127076.53492600397,2022-10-21
+Data Scientist,Los Angeles,Medium,8,133058.69796897605,2018-12-27
+UX Designer,Austin,Medium,3,116284.76275239524,2020-07-25
+HR Specialist,Chicago,Medium,12,107565.89216400497,2022-03-24
+Data Scientist,San Francisco,Small,3,149519.48087757244,2022-10-11
+Data Scientist,New York,Small,12,174625.88501620106,2022-11-17
+Software Engineer,Los Angeles,Medium,15,157049.91293690962,2018-01-09
+DevOps Engineer,New York,Large,19,239269.2706634063,2018-10-24
+QA Engineer,Denver,Small,14,99312.35762761782,2022-10-21
+Product Manager,New York,Large,16,174509.2289926132,2022-11-20
+Data Scientist,San Francisco,Medium,17,204010.25229448656,2021-12-29
+QA Engineer,Denver,Large,19,139254.8721533106,2020-01-27
+HR Specialist,Denver,Small,13,81558.08084518758,2022-03-12
+Product Manager,Boston,Medium,2,117261.77791769554,2019-05-05
+Data Scientist,Austin,Medium,15,179281.79564462847,2021-04-03
+Product Manager,Seattle,Large,12,168532.28335169074,2021-08-16
+DevOps Engineer,Austin,Medium,5,147841.56064389276,2018-02-23
+HR Specialist,Austin,Medium,9,112712.90837266741,2021-01-11
+Data Scientist,Boston,Medium,10,148422.05904191738,2020-10-28
+Data Scientist,Chicago,Small,8,134392.68643490417,2021-06-13
+Product Manager,Boston,Medium,10,155446.6657876876,2021-02-21
+UX Designer,New York,Large,4,145435.81955127252,2019-04-14
+UX Designer,New York,Medium,10,129584.88898904195,2019-08-13
+HR Specialist,Denver,Small,10,90670.97316791667,2020-10-02
+HR Specialist,Seattle,Large,0,100668.7717760023,2018-02-19
+Data Scientist,San Francisco,Medium,5,186036.32003468813,2019-04-08
+HR Specialist,Boston,Small,16,114723.04397976724,2021-10-04
+Product Manager,Boston,Large,19,172909.9021021312,2018-07-28
+Product Manager,Seattle,Small,0,102548.49473442201,2022-02-24
+Software Engineer,Denver,Small,20,130345.89470021045,2022-11-02
+Business Analyst,New York,Small,12,138013.83835317363,2019-02-19
+UX Designer,Chicago,Medium,16,129120.44206446302,2019-03-18
+Software Engineer,Denver,Small,16,128382.00369424807,2020-03-27
+QA Engineer,Austin,Large,8,117809.9356573969,2021-04-12
+QA Engineer,New York,Large,16,158251.4146223572,2021-11-14
+Data Scientist,Denver,Medium,8,118459.24040235211,2019-06-03
+Business Analyst,Boston,Large,12,141346.82473098,2018-06-29
+Business Analyst,Boston,Small,7,126867.31877937679,2021-05-15
+Software Engineer,Boston,Medium,11,141872.82623553614,2022-03-19
+DevOps Engineer,San Francisco,Medium,10,179949.3411099985,2021-11-12
+Software Engineer,Austin,Medium,9,153968.816202984,2021-02-27
+Data Scientist,New York,Large,13,226239.22652193785,2018-05-05
+Business Analyst,Denver,Medium,18,141188.35296711355,2018-05-20
+HR Specialist,Austin,Small,8,83972.7397471174,2019-09-21
+Data Scientist,Chicago,Small,18,145754.87671683021,2020-04-05
+Data Scientist,Boston,Medium,1,157958.46211102584,2018-11-01
+QA Engineer,Chicago,Small,1,86328.98605687957,2019-05-02
+QA Engineer,Denver,Medium,16,138114.39151127057,2022-10-23
+QA Engineer,Boston,Medium,16,147544.98538085353,2019-12-02
+QA Engineer,San Francisco,Small,16,146155.524176839,2022-07-15
+Data Scientist,Austin,Small,2,143838.28924269872,2021-11-12
+Software Engineer,Seattle,Small,8,147392.76527604755,2021-04-10
+HR Specialist,San Francisco,Small,15,118226.06845329952,2021-04-12
+Data Scientist,Denver,Medium,18,160451.01242114382,2021-03-14
+Software Engineer,San Francisco,Small,14,156735.61435602355,2021-07-09
+Data Scientist,Los Angeles,Medium,18,178884.75425384642,2021-12-14
+HR Specialist,New York,Medium,5,118484.30882205286,2022-03-16
+Business Analyst,Seattle,Small,16,112963.10666015395,2021-02-16
+Software Engineer,New York,Small,12,145941.9469491226,2022-06-10
+HR Specialist,Los Angeles,Large,3,101671.87590716554,2018-10-24
+UX Designer,Seattle,Large,10,148648.06081778076,2020-07-18
+DevOps Engineer,Los Angeles,Small,8,138577.61460652313,2022-01-19
+Business Analyst,Seattle,Medium,14,146959.388341489,2019-08-26
+Software Engineer,New York,Small,15,155084.47452052747,2019-01-10
+DevOps Engineer,Denver,Medium,19,162797.62795959497,2018-04-10
+UX Designer,Boston,Large,6,125985.1208982643,2019-12-13
+Data Scientist,Denver,Medium,16,164792.6953785692,2018-01-15
+HR Specialist,New York,Medium,4,93337.92169103835,2018-02-16
+DevOps Engineer,Chicago,Medium,11,165408.0634973311,2022-11-09
+HR Specialist,Los Angeles,Large,7,108171.5410460763,2019-07-21
+Product Manager,New York,Medium,11,169550.6854853619,2019-04-13
+Data Scientist,New York,Medium,17,209604.56048422202,2021-12-02
+Product Manager,New York,Large,17,192645.78969148017,2022-11-01
+DevOps Engineer,San Francisco,Large,2,176461.79568944758,2021-02-23
+Product Manager,Chicago,Small,0,112199.21421289703,2019-03-02
+DevOps Engineer,Boston,Large,3,155346.9689130369,2020-07-13
+DevOps Engineer,New York,Large,20,226897.99937679523,2018-01-13
+Business Analyst,Chicago,Medium,4,113986.30933646,2022-01-27
+UX Designer,San Francisco,Small,4,116715.62681649042,2018-10-14
+UX Designer,Los Angeles,Medium,17,144945.42120877313,2018-04-26
+DevOps Engineer,San Francisco,Medium,7,166035.21459816193,2022-10-17
+DevOps Engineer,New York,Medium,7,180203.54187273295,2022-02-05
+Data Scientist,Chicago,Small,5,136353.98787431407,2021-09-09
+QA Engineer,New York,Large,12,145337.42880862812,2020-08-26
+Product Manager,Denver,Large,15,139983.16871423507,2020-03-26
+Product Manager,Austin,Small,18,138931.19526325798,2020-05-27
+Product Manager,Chicago,Large,15,147340.15420203493,2018-04-19
+Business Analyst,Los Angeles,Large,2,130681.60505943942,2021-08-05
+HR Specialist,Boston,Small,9,91045.46591766075,2018-09-20
+Business Analyst,Austin,Large,1,115557.48824256682,2022-10-20
+QA Engineer,Austin,Small,19,133503.93516227062,2021-03-22
+DevOps Engineer,New York,Large,4,172764.02662150326,2019-09-05
+Product Manager,Boston,Large,20,192210.08016831035,2020-02-29
+Product Manager,Los Angeles,Large,17,179099.31482988998,2019-10-11
+Business Analyst,Chicago,Medium,10,119713.79651007985,2019-01-14
+Product Manager,Denver,Small,8,96852.27047868911,2019-09-14
+Software Engineer,Chicago,Large,0,139358.74513154736,2018-05-29
+HR Specialist,Seattle,Medium,17,145490.14278708512,2020-06-03
+Data Scientist,Boston,Medium,13,175570.72529455187,2021-12-23
+Product Manager,Austin,Large,11,150993.90692516929,2019-05-23
+DevOps Engineer,Seattle,Medium,5,141997.3882370249,2019-12-11
+QA Engineer,Boston,Medium,4,142399.46965406218,2020-06-01
+DevOps Engineer,New York,Medium,10,155109.34368895565,2019-10-16
+UX Designer,Los Angeles,Small,7,118346.05667380935,2020-04-21
+DevOps Engineer,San Francisco,Large,15,222127.28406599548,2020-05-01
+QA Engineer,Austin,Large,15,158006.90495252243,2022-07-31
+QA Engineer,Denver,Large,8,117371.65238037982,2021-04-11
+Data Scientist,Los Angeles,Large,20,211483.44012612457,2018-03-11
+DevOps Engineer,Seattle,Large,20,210461.4056911966,2020-01-03
+UX Designer,New York,Medium,19,156409.21653459762,2022-11-13
+DevOps Engineer,Los Angeles,Medium,19,186889.84471269636,2018-06-15
+Data Scientist,Los Angeles,Large,7,140154.11403930117,2022-09-14
+HR Specialist,Los Angeles,Small,9,85756.03933802542,2021-04-05
+QA Engineer,Los Angeles,Small,3,81484.83335750108,2019-08-04
+Software Engineer,Los Angeles,Medium,1,128752.25561555644,2019-05-17
+HR Specialist,Chicago,Small,5,91656.35001759867,2019-06-22
+HR Specialist,Los Angeles,Medium,2,89912.62558688136,2020-12-28
+Business Analyst,New York,Small,9,136470.97304867618,2022-07-05
+HR Specialist,New York,Small,12,117899.14862046295,2020-05-05
+HR Specialist,San Francisco,Large,9,114597.68501680068,2019-06-17
+Business Analyst,Denver,Large,6,132208.12867129876,2022-11-23
+UX Designer,New York,Large,20,186453.38348671023,2019-12-23
+QA Engineer,Los Angeles,Small,11,121170.91715534721,2019-04-22
+Data Scientist,Austin,Medium,15,170979.95990633967,2018-12-31
+Business Analyst,Seattle,Large,7,145575.50349341315,2020-03-21
+UX Designer,New York,Medium,3,113323.92250743364,2018-09-10
+HR Specialist,San Francisco,Small,5,105285.94908227818,2018-06-10
+QA Engineer,Chicago,Medium,15,120652.4950415727,2021-11-22
+HR Specialist,Boston,Medium,7,84441.73705077884,2022-12-27
+DevOps Engineer,Los Angeles,Large,9,173519.90085066282,2021-12-11
+HR Specialist,Austin,Small,4,90735.9907579781,2022-03-21
+DevOps Engineer,Boston,Medium,19,172726.62799628713,2018-11-13
+Business Analyst,Chicago,Small,12,114282.84804731014,2022-04-01
+UX Designer,Boston,Small,3,107976.6695715716,2021-09-08
+Data Scientist,Denver,Small,16,132562.47198911867,2018-03-14
+QA Engineer,Denver,Medium,7,94764.7781586462,2018-01-28
+Product Manager,New York,Large,12,156642.68766675028,2018-11-27
+QA Engineer,Los Angeles,Large,1,89870.99847364936,2020-12-05
+Software Engineer,Denver,Small,6,109146.78845749453,2022-05-09
+DevOps Engineer,New York,Small,10,161323.0736336004,2021-05-06
+QA Engineer,Los Angeles,Large,16,167848.4864940714,2019-08-26
+UX Designer,New York,Large,20,185089.91623278393,2021-09-18
+HR Specialist,Seattle,Medium,0,88226.09924141095,2018-01-04
+Business Analyst,Seattle,Small,12,134157.246903326,2020-05-03
+Data Scientist,San Francisco,Large,11,221564.35660066962,2018-04-12
+Product Manager,Austin,Large,10,147588.41977354296,2020-08-22
+Data Scientist,San Francisco,Medium,20,225828.5947957723,2021-12-08
+DevOps Engineer,New York,Medium,4,156388.69400309684,2021-08-27
+HR Specialist,Austin,Medium,7,93131.67612391271,2022-08-16
+HR Specialist,San Francisco,Small,18,134746.0531287728,2018-12-20
+Business Analyst,Los Angeles,Large,6,135694.20695088228,2019-10-19
+HR Specialist,Chicago,Medium,5,77777.75260310159,2019-11-16
+QA Engineer,Austin,Medium,16,139440.46792529797,2018-11-06
+Product Manager,New York,Large,13,196639.20675750982,2018-04-18
+Product Manager,Seattle,Small,9,143777.70510579448,2021-10-12
+UX Designer,Los Angeles,Medium,3,106105.04620771804,2018-11-08
+Product Manager,San Francisco,Large,15,185024.6333060855,2019-03-05
+DevOps Engineer,Boston,Small,1,130818.07854794798,2018-08-13
+Software Engineer,Los Angeles,Medium,9,145422.97821975432,2019-03-20
+Software Engineer,Austin,Large,4,150999.99472673188,2019-09-01
+Software Engineer,Austin,Small,14,150460.50182189824,2018-09-05
+Software Engineer,Denver,Medium,17,146259.40827627643,2020-09-02
+UX Designer,Denver,Large,15,124805.88722488418,2018-07-22
+Software Engineer,Chicago,Large,20,187109.70458584404,2020-04-22
+UX Designer,San Francisco,Medium,20,175193.14128434646,2022-03-14
+QA Engineer,Denver,Medium,13,130526.6771283857,2020-05-29
+Business Analyst,Chicago,Small,20,107629.42738582983,2022-10-24
+Data Scientist,Austin,Large,3,167650.07827427104,2022-10-03
+Software Engineer,Boston,Large,7,165955.92102779806,2019-07-16
+Software Engineer,San Francisco,Small,7,149605.23662825025,2021-08-17
+Product Manager,Boston,Small,12,132667.00039306266,2021-10-16
+QA Engineer,Chicago,Small,4,85448.70543492513,2021-05-27
+Product Manager,Los Angeles,Medium,0,124370.31022132907,2018-01-25
+UX Designer,Seattle,Large,12,170643.82046194156,2020-07-25
+HR Specialist,Denver,Small,8,77774.5302386612,2021-07-08
+UX Designer,San Francisco,Small,7,122512.36538913682,2018-07-10
+Business Analyst,San Francisco,Small,9,141983.91053887072,2019-08-18
+DevOps Engineer,Chicago,Large,12,159991.75348182122,2019-08-19
+HR Specialist,Chicago,Large,16,111187.37850036289,2021-03-16
+DevOps Engineer,San Francisco,Medium,12,179013.29904994287,2020-11-19
+Product Manager,Chicago,Medium,14,143414.03247831436,2018-10-22
+Product Manager,Boston,Small,20,141333.62887202337,2020-03-22
+Product Manager,Seattle,Medium,4,137984.23889925057,2019-08-10
+Software Engineer,New York,Large,4,167842.18721285035,2020-04-21
+UX Designer,Chicago,Medium,17,134254.84221589597,2021-07-25
+DevOps Engineer,Boston,Large,11,181948.225008027,2020-07-29
+Business Analyst,Austin,Large,10,138702.38227681577,2021-11-09
+Product Manager,Seattle,Large,15,178382.00554848468,2022-11-19
+HR Specialist,Los Angeles,Small,16,120504.48491395556,2020-09-28
+HR Specialist,Chicago,Small,15,94712.61436740973,2021-09-26
+Business Analyst,Chicago,Large,15,130643.90277820405,2022-05-10
+Software Engineer,Denver,Large,7,135017.44784556163,2020-11-01
+Business Analyst,Austin,Large,8,142282.49597324798,2021-05-29
+HR Specialist,Seattle,Large,6,113304.89176069594,2020-04-05
+QA Engineer,San Francisco,Large,9,149671.76074076493,2020-12-30
+Business Analyst,Seattle,Medium,10,135910.80299481237,2019-02-26
+QA Engineer,Denver,Small,5,91642.58279740997,2022-12-27
+HR Specialist,New York,Medium,14,124279.11758547045,2019-01-15
+Software Engineer,Los Angeles,Small,4,116172.41606211991,2021-12-22
+Product Manager,Denver,Large,9,138319.92112936077,2018-06-02
+Product Manager,San Francisco,Large,3,151935.37260511,2021-11-12
+DevOps Engineer,Los Angeles,Medium,2,124911.30457376022,2018-09-27
+Data Scientist,Seattle,Medium,15,178861.99998364405,2020-04-05
+Product Manager,San Francisco,Large,13,211012.565011927,2022-05-22
+Software Engineer,San Francisco,Large,8,180502.77880572618,2020-08-01
+HR Specialist,Denver,Medium,1,91091.73706427672,2019-07-21
+HR Specialist,Los Angeles,Large,9,105819.2906431407,2020-02-18
+DevOps Engineer,Austin,Medium,9,147022.54379485015,2022-09-25
+Product Manager,Austin,Small,20,144337.37526409753,2018-03-24
+HR Specialist,Chicago,Medium,11,105215.9381633945,2022-09-03
+Software Engineer,New York,Medium,10,163417.3611859601,2021-09-06
+QA Engineer,Austin,Medium,15,128441.78814951645,2022-04-15
+Data Scientist,Seattle,Large,14,210985.09452104184,2018-04-14
+QA Engineer,Seattle,Large,1,110677.20759107247,2018-11-26
+Product Manager,Austin,Large,14,167358.71899035232,2021-06-06
+HR Specialist,Seattle,Small,10,101003.58909101207,2022-12-16
+Business Analyst,Boston,Small,3,103117.84631442669,2019-09-21
+UX Designer,Boston,Medium,15,133058.57772684793,2018-01-22
+Software Engineer,Denver,Small,19,107550.11780678359,2022-06-21
+Business Analyst,Seattle,Large,13,154255.77943378198,2019-01-03
+Product Manager,Boston,Medium,20,175134.4206947419,2020-03-26
+QA Engineer,Seattle,Small,5,114063.18935873655,2020-09-23
+UX Designer,New York,Medium,15,158238.07881780868,2020-02-13
+QA Engineer,Austin,Large,1,107199.00791315945,2021-03-20
+Product Manager,Chicago,Medium,3,106842.82981073276,2018-09-11
+DevOps Engineer,Seattle,Large,14,186779.64762646964,2021-10-18
+UX Designer,San Francisco,Medium,17,166775.53923390066,2018-08-05
+QA Engineer,Chicago,Medium,3,96432.18394808972,2020-04-18
+UX Designer,New York,Small,9,128571.46826912905,2021-06-01
+Product Manager,New York,Medium,2,106969.2489934873,2021-10-18
+QA Engineer,Boston,Large,18,137988.99306014174,2022-06-22
+UX Designer,Los Angeles,Small,15,101618.0251004125,2022-12-17
+DevOps Engineer,Denver,Small,10,117617.0975874078,2022-01-26
+UX Designer,Denver,Medium,14,117675.70445542184,2022-03-02
+UX Designer,Denver,Small,0,71447.50809226691,2021-06-22
+UX Designer,Boston,Medium,6,122002.10314061704,2019-02-22
+Software Engineer,Los Angeles,Large,10,155188.9413201929,2021-08-30
+Product Manager,San Francisco,Medium,1,148177.2351464714,2021-03-17
+Software Engineer,Seattle,Medium,19,191339.67670666362,2019-02-27
+Software Engineer,Seattle,Medium,7,142821.399099137,2018-03-08
+QA Engineer,Los Angeles,Small,9,112752.21767396994,2019-07-21
+DevOps Engineer,San Francisco,Medium,10,166800.18521561683,2019-06-05
+Data Scientist,Los Angeles,Medium,1,124641.00073736299,2022-06-15
+Software Engineer,Los Angeles,Small,1,108706.12261587936,2018-04-26
+UX Designer,Denver,Medium,0,106945.63431184129,2020-06-23
+Software Engineer,Denver,Small,13,133947.25512893894,2019-09-02
+QA Engineer,Denver,Small,19,111904.9932190725,2021-04-20
+DevOps Engineer,Boston,Medium,13,195319.03055666768,2021-02-27
+HR Specialist,New York,Medium,5,100023.25427259353,2022-06-10
+Business Analyst,Los Angeles,Small,3,110059.46829419257,2021-10-19
+Data Scientist,Los Angeles,Small,12,150988.1984020971,2022-06-21
+Business Analyst,Los Angeles,Small,15,123745.8941979828,2021-02-02
+QA Engineer,Seattle,Small,7,109179.26879008421,2018-03-27
+DevOps Engineer,Seattle,Small,12,143488.8507494431,2018-07-24
+DevOps Engineer,Boston,Large,13,175696.60551037913,2021-12-26
+Business Analyst,Los Angeles,Large,13,147708.3335412299,2020-09-07
+Product Manager,San Francisco,Small,2,114788.9036001777,2022-06-26
+Business Analyst,Los Angeles,Small,19,122210.43803994125,2022-03-17
+QA Engineer,San Francisco,Small,5,111392.64485139512,2020-09-17
+UX Designer,Austin,Small,7,119166.22134865,2019-07-11
+Data Scientist,Seattle,Large,10,182123.10237004724,2021-07-23
+Product Manager,Seattle,Medium,2,129201.5311927812,2022-06-23
+Business Analyst,New York,Small,14,135589.03311534206,2020-09-02
+DevOps Engineer,Los Angeles,Small,15,127937.21312233522,2020-05-30
+Data Scientist,Austin,Large,4,174136.49291368082,2018-07-02
+UX Designer,San Francisco,Large,3,151029.81798595123,2022-05-04
+DevOps Engineer,Austin,Medium,12,163655.12254079414,2018-12-29
+DevOps Engineer,Seattle,Large,20,223487.06430340128,2020-08-08
+DevOps Engineer,Austin,Large,7,158091.95150994268,2022-03-09
+QA Engineer,Seattle,Small,19,124312.96419622685,2021-10-19
+Product Manager,Los Angeles,Large,18,184592.90877972965,2018-01-25
+Software Engineer,New York,Large,10,204284.01986529227,2020-10-18
+Software Engineer,Austin,Large,5,138032.90568105035,2019-08-07
+Data Scientist,Austin,Large,19,189582.07542900642,2021-12-22
+Business Analyst,Austin,Large,3,127834.39015993144,2021-03-21
+Product Manager,Austin,Small,4,103063.61470223626,2022-11-17
+QA Engineer,Los Angeles,Small,12,118145.96009174109,2022-09-08
+DevOps Engineer,Seattle,Large,16,210480.13826250655,2022-12-26
+DevOps Engineer,New York,Large,8,178231.03628173872,2018-09-21
+Product Manager,Denver,Small,18,125110.92122653918,2020-08-20
