@@ -8,7 +8,7 @@ import seaborn as sns
 st.set_page_config(page_title="Salary Transparency Insights", layout="wide", initial_sidebar_state="expanded")
 
 # Load the generated salary data
-df = pd.read_csv('/Users/muchirikahwai/Downloads/Levelsfyi/salary_data.csv')
+df = pd.read_csv('salary_data.csv')
 
 # Sidebar
 st.sidebar.header("Navigation")
