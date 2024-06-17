@@ -43,7 +43,7 @@ if navigation == "Home":
 
     **Date Built**: June 14, 2024
     """)
-    st.image("/Users/muchirikahwai/Downloads/Levelsfyi/image.webp", caption="Salary Insights", use_column_width=True)
+    st.image("image.webp", caption="Salary Insights", use_column_width=True)
     
 # Salary Insights Section
 if navigation == "Salary Insights":
